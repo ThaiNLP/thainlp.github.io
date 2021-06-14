@@ -14,6 +14,7 @@ author: Thai Natural Language Processing
 # --- List of links in the navigation bar --- #
 
 navbar-links:
+  Resource: "https://nlpforthai.com/"
   About: "about"
   Facebook Group: "https://web.facebook.com/groups/thainlp/"
 # --- Logo --- #
