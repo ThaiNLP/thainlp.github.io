@@ -2,7 +2,6 @@
 layout: post
 title: รู้จักกับกลุ่ม Thai NLP
 subtitle: กลุ่ม NLP ภาษาไทยที่ใหญ่ที่สุดในโลก
-tags: [meetup]
 ---
 
 กลุ่ม Thai NLP เป็นกลุ่มบน Facebook มีชื่อเต็มว่า "Thai Natural Language Processing" เป็นกลุ่มชุมชนผู้สนใจการประมวลผลภาษาธรรมชาติ (natural language processing) ในภาษาไทย และแบ่งปันความรู้ตามแนวทางซอฟต์แวร์เสรีและข้อมูลเปิด
